@@ -1,3 +1,3 @@
-salklask # sedscusat-frontend
+# sedscusat-frontend
 Frontend files for sedscusat new website
-silsila
+
