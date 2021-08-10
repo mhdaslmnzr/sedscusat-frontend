@@ -1,2 +1,11 @@
 Loraien trying
+<<<<<<< HEAD
 aslam teaching
+=======
+asigasdhigas
+asfhasghfj
+adfkjbasfjbva
+dfahfbajvfjhasb
+afvasghfbvasbf
+>>>>>>> e4b9703978bc7889553f68578e49c69f14c1c0c1
+p
