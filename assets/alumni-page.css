@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Heading */
+.heading {
+  margin: 1.5ex;
+  text-align: center;
+}
+
+/* Accordion */
+.accordion-collapse {
+  padding: 20px;
+}
+
+/* Button */
+.more-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
