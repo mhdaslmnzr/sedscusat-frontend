@@ -186,13 +186,7 @@ tr:hover {
   }
 }
 
-.full_list {
-  height: 92vh;
-  padding: 50px;
-  align-items: center;
-  overflow: scroll;
-  padding-top: 12%;
-}
+
 
 .admin {
   height: 92vh;
@@ -202,12 +196,7 @@ tr:hover {
   overflow: scroll;
 }
 
-.add_admin {
-  height: 92vh;
-  padding: 50px;
-  align-items: center;
-  padding-top: 12%;
-}
+
 
 #login-form {
   padding: 10x;
